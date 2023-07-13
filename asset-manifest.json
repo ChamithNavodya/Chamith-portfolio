@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Chamith-portfolio/static/css/main.1dc6b369.css",
+    "main.js": "/Chamith-portfolio/static/js/main.9abceaf5.js",
+    "static/media/Chamith.pdf": "/Chamith-portfolio/static/media/Chamith.2b27f355035449465ef2.pdf",
+    "static/media/my1.png": "/Chamith-portfolio/static/media/my1.c09cbfbd17e27ab88a89.png",
+    "static/media/chamith.jpg": "/Chamith-portfolio/static/media/chamith.60b7985a1e3673d3d983.jpg",
+    "index.html": "/Chamith-portfolio/index.html",
+    "main.1dc6b369.css.map": "/Chamith-portfolio/static/css/main.1dc6b369.css.map",
+    "main.9abceaf5.js.map": "/Chamith-portfolio/static/js/main.9abceaf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dc6b369.css",
+    "static/js/main.9abceaf5.js"
+  ]
+}
